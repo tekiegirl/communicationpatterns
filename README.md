@@ -3,7 +3,7 @@
 <table style="border: 0px solid transparent; border-collapse: collapse;">
  <tr>
   <td style="width: 50%; max-width: 300px">
-   Welcome to the companion website for _Communication Patterns: A Guide for Developers and Architects_, by Jacqui Read.
+   Welcome to the companion website for <em>Communication Patterns: A Guide for Developers and Architects</em>, by Jacqui Read.
 
    ## Read the Book
 
