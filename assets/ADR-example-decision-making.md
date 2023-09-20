@@ -21,34 +21,34 @@ See [ADR-002 Select Architecture Characteristics](https://link-to-ADR-002)
 
 ## Options
 ### 1. Microservices
-| Criteria | Score | Rationale |
-| -- | -- | -- |
-| Responsiveness | ★★★☆☆ 3/5 | [Not inherently performant](https://link-to-reference-info) but optimisations can be put in place at bottlenecks, e.g. scaling |
-| Maintainability | ★★★☆☆ 3/5 | Dependencies can be an issue, many data stores to maintain |
-| Deployability | ★★★★★ 5/5 | Deploy only what has changed |
-| Scalability | ★★★★★ 5/5 | Scale on per-service basis |
-| | **Total:** 16/20 | **Other Trade-offs** |
-| | | - Must split data into [one data store per service](https://link-to-reference-info) <br/>- Costs are usually high for building <br/>- Complex and is hard to create workflows |
+| Criteria        | Score            | Rationale                                                                                                                                                                     |
+| --------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Responsiveness  | ★★★☆☆ 3/5        | [Not inherently performant](https://link-to-reference-info) but optimisations can be put in place at bottlenecks, e.g. scaling                                                |
+| Maintainability | ★★★☆☆ 3/5        | Dependencies can be an issue, many data stores to maintain                                                                                                                    |
+| Deployability   | ★★★★★ 5/5        | Deploy only what has changed                                                                                                                                                  |
+| Scalability     | ★★★★★ 5/5        | Scale on per-service basis                                                                                                                                                    |
+|                 | **Total:** 16/20 | **Other Trade-offs**                                                                                                                                                          |
+|                 |                  | - Must split data into [one data store per service](https://link-to-reference-info) <br/>- Costs are usually high for building <br/>- Complex and is hard to create workflows |
 
 ### 2. Service-based
-| Criteria | Score | Rationale |
-| -- | -- | -- |
-| Responsiveness | ★★★☆☆ 3/5 | [Not inherently performant](https://link-to-reference-info) but optimisations can be put in place at bottlenecks, e.g. scaling |
-| Maintainability | ★★★★☆ 4/5 | Fewer data stores to maintain than microservices |
-| Deployability | ★★★★☆ 4/5 | Deploy only what has changed, make sure changes to shared data store(s) don't affect other services |
-| Scalability | ★★★☆☆ 3/5 | Scale individual services, harder to scale shared data store(s) unless using [caching](https://link-to-reference-info) |
-| | **Total:** 14/20 | **Other Trade-offs** |
-| | | - Reasonably complex & hard to create workflows <br/>- Not as evolvable as microservices |
+| Criteria        | Score            | Rationale                                                                                                                      |
+| --------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Responsiveness  | ★★★☆☆ 3/5        | [Not inherently performant](https://link-to-reference-info) but optimisations can be put in place at bottlenecks, e.g. scaling |
+| Maintainability | ★★★★☆ 4/5        | Fewer data stores to maintain than microservices                                                                               |
+| Deployability   | ★★★★☆ 4/5        | Deploy only what has changed, make sure changes to shared data store(s) don't affect other services                            |
+| Scalability     | ★★★☆☆ 3/5        | Scale individual services, harder to scale shared data store(s) unless using [caching](https://link-to-reference-info)         |
+|                 | **Total:** 14/20 | **Other Trade-offs**                                                                                                           |
+|                 |                  | - Reasonably complex & hard to create workflows <br/>- Not as evolvable as microservices                                       |
 
 ### 3. Event-driven
-| Criteria | Score | Rationale |
-| -- | -- | -- |
-| Responsiveness | ★★★★★ 5/5 | Generally [fire-and-forget](https://link-to-reference-info), event processing can be scaled/optimised
-| Maintainability | ★★★★☆ 4/5 | Must manage event processing as well as services and data stores, events decouple services to be managed by individual teams |
-| Deployability | ★★★☆☆ 3/5 | Manage event processing deployment and changes as well as services |
-| Scalability | ★★★★★ 5/5 | Services and message processing can both be scaled |
-| | **Total:** 17/20 | **Other Trade-offs** |
-| | | - [Integration testing can be harder](https://link-to-reference-info) |
+| Criteria        | Score            | Rationale                                                                                                                    |
+| --------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Responsiveness  | ★★★★★ 5/5        | Generally [fire-and-forget](https://link-to-reference-info), event processing can be scaled/optimised                        |
+| Maintainability | ★★★★☆ 4/5        | Must manage event processing as well as services and data stores, events decouple services to be managed by individual teams |
+| Deployability   | ★★★☆☆ 3/5        | Manage event processing deployment and changes as well as services                                                           |
+| Scalability     | ★★★★★ 5/5        | Services and message processing can both be scaled                                                                           |
+|                 | **Total:** 17/20 | **Other Trade-offs**                                                                                                         |
+|                 |                  | - [Integration testing can be harder](https://link-to-reference-info)                                                        |
 
 ## Decision
 We will use event-driven architecture due to its responsiveness and scalability, and the limited tradeoffs compared to the other two options. Event-driven also scores the highest of the three options on the most important criterion: responsiveness.

@@ -17,14 +17,14 @@ score or rating), and trade-offs outside of the evaluation criteria. A template 
 
 ### 1. First option
 
-| Criteria   | Score        | Rationale                                                                                           |
-| ---------- | ------------ | --------------------------------------------------------------------------------------------------- |
-| Criteria 1 |    ★★★☆☆ 3/5 | Rationale for score 1 with optional [link to reference](https://link-to-reference)                                              |
-| Criteria 2 |    ★★★☆☆ 3/5 | Rationale for score 2                                                                               |
-| Criteria 3 |    ★★★★★ 5/5 | Rationale for score 3                                                                               |
-| Criteria n |    ★★★★★ 5/5 | Rationale for score n                                                                               |
-|            | **Total:** 16/20 | **Other Trade-offs**                                                                                    |
-|            |              | - Extra tradeoff 1 with optional [link to reference](https://link-to-reference) <br/>- Extra tradeoff 2 <br/>- Extra tradeoff n |
+| Criteria   | Score            | Rationale                                                                                                                       |
+| ---------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Criteria 1 | ★★★☆☆ 3/5        | Rationale for score 1 with optional [link to reference](https://link-to-reference)                                              |
+| Criteria 2 | ★★★☆☆ 3/5        | Rationale for score 2                                                                                                           |
+| Criteria 3 | ★★★★★ 5/5        | Rationale for score 3                                                                                                           |
+| Criteria n | ★★★★★ 5/5        | Rationale for score n                                                                                                           |
+|            | **Total:** 16/20 | **Other Trade-offs**                                                                                                            |
+|            |                  | - Extra tradeoff 1 with optional [link to reference](https://link-to-reference) <br/>- Extra tradeoff 2 <br/>- Extra tradeoff n |
 
 ## Decision
 The choice that was made and why.
