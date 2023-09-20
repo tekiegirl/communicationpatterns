@@ -9,8 +9,8 @@
     <li><a href="https://www.amazon.co.uk/Communication-Patterns-Guide-Developers-Architects/dp/1098140540/">Amazon.co.uk</a></li>
     <li><a href="https://www.hive.co.uk/Product/Jacqueline-Read/Communication-Patterns--A-Guide-for-Developers-and-Architects/29041734">Hive.co.uk</a></li>
    </ul>
-   <a href="figs&freebies.md"><h2>Figures & Freebies</h2></a>
-   <p>View <a href="figures.md">figures</a> from the book and access <a href="freebies.md">freebie resources</a>.</p>
+   <h2>Figures & Freebies</h2>
+   <p>View <a href="figures.html">figures</a> from the book and access <a href="freebies.html">freebie resources</a>.</p>
   </td>
   <td style="min-width: 75px; max-width: 300px">
    <image src="assets/compatcover.png" align="center" alt="Book cover: Communication Patterns" />
