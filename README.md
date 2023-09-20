@@ -2,7 +2,7 @@
  <tr>
   <td>
    <h2>Read the Book</h2>
-   <p>Communication Patterns is available from many places, including the following:</p>
+   <p>Communication Patterns is available from many places, including:</p>
    <ul>
     <li><a href="https://learning.oreilly.com/library/view/communication-patterns/9781098140533/">Read online on O'Reilly.com</a></li>
     <li><a href="https://www.amazon.com/Communication-Patterns-Guide-Developers-Architects/dp/1098140540/"> Amazon.com</a></li>
