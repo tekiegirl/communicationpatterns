@@ -1,5 +1,6 @@
 # Figures
 [> Home](README.md)
+
 All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/)
 
 <a name="toc"></a>
