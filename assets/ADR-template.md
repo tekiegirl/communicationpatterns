@@ -37,5 +37,3 @@ If taking input from others, they should document it here. Details of those invi
 to give input can be recorded, whether they provide input or not. Although consultation
 takes place before a decision, it is documented at the end because it can become
 long and obscure the decision itself.
-
-LICENSE: [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/).
