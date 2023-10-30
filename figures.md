@@ -5,8 +5,10 @@ All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://cr
 
 <a name="toc"></a>
 
-## Part I
+## Contents
+### Part I
 - <a href="#chap01">Chapter 1</a>
+- <a href="#chap02">Chapter 2</a>
 
 <a name="chap01"></a>
 
@@ -49,6 +51,33 @@ All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://cr
 
 <a href="#toc">^ contents</a>
 
-> Further chapters are on their way...
+<a name="chap02"></a>
+
+## Chapter 2
+### Fig 2-1
+<a href="assets/figures/copa_0201.png"><img src="assets/figures/copa_0201.png" style="zoom:25%;" /></a>
+
+### Fig 2-2
+<a href="assets/figures/copa_0202.png"><img src="assets/figures/copa_0202.png" style="zoom:25%;" /></a>
+
+### Fig 2-3
+<a href="assets/figures/copa_0203.png"><img src="assets/figures/copa_0203.png" style="zoom:25%;" /></a>
+
+### Fig 2-4
+<a href="assets/figures/copa_0204.png"><img src="assets/figures/copa_0204.png" style="zoom:25%;" /></a>
+
+### Fig 2-5
+<a href="assets/figures/copa_0205.png"><img src="assets/figures/copa_0205.png" style="zoom:25%;" /></a>
+
+### Fig 2-6
+<a href="assets/figures/copa_0206.png"><img src="assets/figures/copa_0206.png" style="zoom:25%;" /></a>
+
+### Fig 2-7
+<a href="assets/figures/copa_0207.png"><img src="assets/figures/copa_0207.png" style="zoom:25%;" /></a>
+
+### Fig 2-8
+<a href="assets/figures/copa_0208.png"><img src="assets/figures/copa_0208.png" style="zoom:25%;" /></a>
+
+<a href="#toc">^ contents</a>
 
 [> Home](README.md)
