@@ -2,4 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-
+.page-header {
+    background-image: linear-gradient(to right, #8F6374 0%, 33.95061728395061%, #D3752C 50.729517396184065%, 74.80359147025814%, #A4AA3F 100%);
+    padding: 1rem 6rem;
+}
+table, tr, td, th {
+    border: none;
+}
