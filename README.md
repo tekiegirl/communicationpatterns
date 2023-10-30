@@ -1,4 +1,4 @@
-<table style="border: 0px solid transparent; border-collapse: collapse;">
+<table style="border-collapse: collapse;">
  <tr>
   <td>
    <h2>Read the Book</h2>
