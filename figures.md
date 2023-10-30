@@ -13,6 +13,7 @@ All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://cr
 - <a href="#chap04">Chapter 4</a>
 - <a href="#chap05">Chapter 5</a>
 - <a href="#chap06">Chapter 6</a>
+- <a href="#chap07">Chapter 7</a>
 
 <a name="chap01"></a>
 
@@ -230,6 +231,14 @@ All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://cr
 
 ### Fig 6-17
 <a href="assets/figures/copa_0617.png"><img src="assets/figures/copa_0617.png" style="zoom:25%;" /></a>
+
+<a href="#toc">^ contents</a>
+
+<a name="chap07"></a>
+
+## Chapter 7
+### Fig 7-1
+<a href="assets/figures/copa_0701.png"><img src="assets/figures/copa_0701.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ contents</a>
 
