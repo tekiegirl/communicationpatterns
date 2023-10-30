@@ -13,12 +13,18 @@ All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://cr
 - <a href="#chap04">Chapter 4</a>
 - <a href="#chap05">Chapter 5</a>
 - <a href="#chap06">Chapter 6</a>
+
+### Part II
 - <a href="#chap07">Chapter 7</a>
 - <a href="#chap08">Chapter 8</a>
 - <a href="#chap09">Chapter 9</a>
+
+### Part III
 - <a href="#chap10">Chapter 10</a>
 - <a href="#chap11">Chapter 11</a>
 - <a href="#chap12">Chapter 12</a>
+
+### Part IV
 - <a href="#chap13">Chapter 13</a>
 - <a href="#chap14">Chapter 14</a>
 - <a href="#chap15">Chapter 15</a>
