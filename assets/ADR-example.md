@@ -1,3 +1,5 @@
+[> Home](README.md) | [> Freebies](freebies.md)
+
 # ADR-044 Change to Event-Driven Architecture
 
 ## Status
@@ -26,3 +28,5 @@ We will use event-driven architecture due to its responsiveness and scalability,
 - Integration testing and DevOps will need to be overhauled.
 
 LICENSE: [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/).
+
+[> Home](README.md) | [> Freebies](freebies.md)

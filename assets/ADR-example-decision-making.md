@@ -1,3 +1,5 @@
+[> Home](README.md) | [> Freebies](freebies.md)
+
 # ADR-044 Use an Event-Driven Distributed Architecture
 
 ## Status
@@ -75,3 +77,5 @@ We will use event-driven architecture due to its responsiveness and scalability,
 - _Libby_: Pure microservices would require that services do not share data stores. Splitting our data like this would require a lot of effort.
 
 LICENSE: [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/).
+
+[> Home](README.md) | [> Freebies](freebies.md)

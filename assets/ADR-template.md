@@ -1,3 +1,5 @@
+[> Home](README.md) | [> Freebies](freebies.md)
+
 # Identifier and Title (a statement of the decision made)
 
 ## Status
@@ -37,3 +39,5 @@ If taking input from others, they should document it here. Details of those invi
 to give input can be recorded, whether they provide input or not. Although consultation
 takes place before a decision, it is documented at the end because it can become
 long and obscure the decision itself.
+
+[> Home](README.md) | [> Freebies](freebies.md)
