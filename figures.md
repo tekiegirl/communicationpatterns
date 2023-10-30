@@ -311,14 +311,17 @@ All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://cr
 
 ### Fig 12-3
 [🔍 view text version](/assets/ADR-example-decision-making.md)
+
 <a href="assets/figures/copa_1203.png"><img src="assets/figures/copa_1203.png" style="zoom:25%;" /></a>
 
 ### Fig 12-4
 [🔍 view text version](/assets/ADR-example-decision-making.md)
+
 <a href="assets/figures/copa_1204.png"><img src="assets/figures/copa_1204.png" style="zoom:25%;" /></a>
 
 ### Fig 12-5
 [🔍 view text version](/assets/ADR-example.md)
+
 <a href="assets/figures/copa_1205.png"><img src="assets/figures/copa_1205.png" style="zoom:25%;" /></a>
 
 ### Fig 12-6
