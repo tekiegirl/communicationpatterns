@@ -12,6 +12,7 @@ All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://cr
 - <a href="#chap03">Chapter 3</a>
 - <a href="#chap04">Chapter 4</a>
 - <a href="#chap05">Chapter 5</a>
+- <a href="#chap06">Chapter 6</a>
 
 <a name="chap01"></a>
 
@@ -173,6 +174,62 @@ All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://cr
 
 ### Fig 5-9
 <a href="assets/figures/copa_0509.png"><img src="assets/figures/copa_0509.png" style="zoom:25%;" /></a>
+
+<a href="#toc">^ contents</a>
+
+<a name="chap06"></a>
+
+## Chapter 6
+### Fig 6-1
+<a href="assets/figures/copa_0601.png"><img src="assets/figures/copa_0601.png" style="zoom:25%;" /></a>
+
+### Fig 6-2
+<a href="assets/figures/copa_0602.png"><img src="assets/figures/copa_0602.png" style="zoom:25%;" /></a>
+
+### Fig 6-3
+<a href="assets/figures/copa_0603.png"><img src="assets/figures/copa_0603.png" style="zoom:25%;" /></a>
+
+### Fig 6-4
+<a href="assets/figures/copa_0604.png"><img src="assets/figures/copa_0604.png" style="zoom:25%;" /></a>
+
+### Fig 6-5
+<a href="assets/figures/copa_0605.png"><img src="assets/figures/copa_0605.png" style="zoom:25%;" /></a>
+
+### Fig 6-6
+<a href="assets/figures/copa_0606.png"><img src="assets/figures/copa_0606.png" style="zoom:25%;" /></a>
+
+### Fig 6-7
+<a href="assets/figures/copa_0607.png"><img src="assets/figures/copa_0607.png" style="zoom:25%;" /></a>
+
+### Fig 6-8
+<a href="assets/figures/copa_0608.png"><img src="assets/figures/copa_0608.png" style="zoom:25%;" /></a>
+
+### Fig 6-9
+<a href="assets/figures/copa_0609.png"><img src="assets/figures/copa_0609.png" style="zoom:25%;" /></a>
+
+### Fig 6-10
+<a href="assets/figures/copa_0610.png"><img src="assets/figures/copa_0610.png" style="zoom:25%;" /></a>
+
+### Fig 6-11
+<a href="assets/figures/copa_0611.png"><img src="assets/figures/copa_0611.png" style="zoom:25%;" /></a>
+
+### Fig 6-12
+<a href="assets/figures/copa_0612.png"><img src="assets/figures/copa_0612.png" style="zoom:25%;" /></a>
+
+### Fig 6-13
+<a href="assets/figures/copa_0613.png"><img src="assets/figures/copa_0613.png" style="zoom:25%;" /></a>
+
+### Fig 6-14
+<a href="assets/figures/copa_0614.png"><img src="assets/figures/copa_0614.png" style="zoom:25%;" /></a>
+
+### Fig 6-15
+<a href="assets/figures/copa_0615.png"><img src="assets/figures/copa_0615.png" style="zoom:25%;" /></a>
+
+### Fig 6-16
+<a href="assets/figures/copa_0616.png"><img src="assets/figures/copa_0616.png" style="zoom:25%;" /></a>
+
+### Fig 6-17
+<a href="assets/figures/copa_0617.png"><img src="assets/figures/copa_0617.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ contents</a>
 
