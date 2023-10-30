@@ -21,6 +21,7 @@ See [ADR-002 Select Architecture Characteristics](https://link-to-ADR-002)
 
 ## Options
 ### 1. Microservices
+
 | Criteria        | Score            | Rationale                                                                                                                                                                     |
 | --------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Responsiveness  | ★★★☆☆ 3/5        | [Not inherently performant](https://link-to-reference-info) but optimisations can be put in place at bottlenecks, e.g. scaling                                                |
@@ -31,6 +32,7 @@ See [ADR-002 Select Architecture Characteristics](https://link-to-ADR-002)
 |                 |                  | - Must split data into [one data store per service](https://link-to-reference-info) <br/>- Costs are usually high for building <br/>- Complex and is hard to create workflows |
 
 ### 2. Service-based
+
 | Criteria        | Score            | Rationale                                                                                                                      |
 | --------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Responsiveness  | ★★★☆☆ 3/5        | [Not inherently performant](https://link-to-reference-info) but optimisations can be put in place at bottlenecks, e.g. scaling |
@@ -41,6 +43,7 @@ See [ADR-002 Select Architecture Characteristics](https://link-to-ADR-002)
 |                 |                  | - Reasonably complex & hard to create workflows <br/>- Not as evolvable as microservices                                       |
 
 ### 3. Event-driven
+
 | Criteria        | Score            | Rationale                                                                                                                    |
 | --------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Responsiveness  | ★★★★★ 5/5        | Generally [fire-and-forget](https://link-to-reference-info), event processing can be scaled/optimised                        |
