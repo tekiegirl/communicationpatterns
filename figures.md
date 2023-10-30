@@ -18,6 +18,7 @@ All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://cr
 - <a href="#chap09">Chapter 9</a>
 - <a href="#chap10">Chapter 10</a>
 - <a href="#chap11">Chapter 11</a>
+- <a href="#chap12">Chapter 12</a>
 
 <a name="chap01"></a>
 
@@ -293,6 +294,35 @@ All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://cr
 
 ### Fig 11-2
 <a href="assets/figures/copa_1102.png"><img src="assets/figures/copa_1102.png" style="zoom:25%;" /></a>
+
+<a href="#toc">^ contents</a>
+
+<a name="chap12"></a>
+
+## Chapter 12
+### Fig 12-1
+<a href="assets/figures/copa_1201.png"><img src="assets/figures/copa_1201.png" style="zoom:25%;" /></a>
+
+### Fig 12-2
+<a href="assets/figures/copa_1202.png"><img src="assets/figures/copa_1202.png" style="zoom:25%;" /></a>
+
+### Fig 12-3
+[🔍 view text version](/assets/ADR-example-decision-making.md)
+<a href="assets/figures/copa_1203.png"><img src="assets/figures/copa_1203.png" style="zoom:25%;" /></a>
+
+### Fig 12-4
+[🔍 view text version](/assets/ADR-example-decision-making.md)
+<a href="assets/figures/copa_1204.png"><img src="assets/figures/copa_1204.png" style="zoom:25%;" /></a>
+
+### Fig 12-5
+[🔍 view text version](/assets/ADR-example.md)
+<a href="assets/figures/copa_1205.png"><img src="assets/figures/copa_1205.png" style="zoom:25%;" /></a>
+
+### Fig 12-6
+<a href="assets/figures/copa_1206.png"><img src="assets/figures/copa_1206.png" style="zoom:25%;" /></a>
+
+### Fig 12-7
+<a href="assets/figures/copa_1207.png"><img src="assets/figures/copa_1207.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ contents</a>
 
