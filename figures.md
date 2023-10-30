@@ -9,6 +9,7 @@ All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://cr
 ### Part I
 - <a href="#chap01">Chapter 1</a>
 - <a href="#chap02">Chapter 2</a>
+- <a href="#chap03">Chapter 3</a>
 
 <a name="chap01"></a>
 
@@ -77,6 +78,35 @@ All images are licensed as [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://cr
 
 ### Fig 2-8
 <a href="assets/figures/copa_0208.png"><img src="assets/figures/copa_0208.png" style="zoom:25%;" /></a>
+
+<a href="#toc">^ contents</a>
+
+<a name="chap03"></a>
+
+## Chapter 3
+### Fig 3-1
+<a href="assets/figures/copa_0301.png"><img src="assets/figures/copa_0301.png" style="zoom:25%;" /></a>
+
+### Fig 3-2
+<a href="assets/figures/copa_0302.png"><img src="assets/figures/copa_0302.png" style="zoom:25%;" /></a>
+
+### Fig 3-3
+<a href="assets/figures/copa_0303.png"><img src="assets/figures/copa_0303.png" style="zoom:25%;" /></a>
+
+### Fig 3-4
+<a href="assets/figures/copa_0304.png"><img src="assets/figures/copa_0304.png" style="zoom:25%;" /></a>
+
+### Fig 3-5
+<a href="assets/figures/copa_0305.png"><img src="assets/figures/copa_0305.png" style="zoom:25%;" /></a>
+
+### Fig 3-6
+<a href="assets/figures/copa_0306.png"><img src="assets/figures/copa_0306.png" style="zoom:25%;" /></a>
+
+### Fig 3-7
+<a href="assets/figures/copa_0307.png"><img src="assets/figures/copa_0307.png" style="zoom:25%;" /></a>
+
+### Fig 3-8
+<a href="assets/figures/copa_0308.png"><img src="assets/figures/copa_0308.png" style="zoom:25%;" /></a>
 
 <a href="#toc">^ contents</a>
 
