@@ -9,6 +9,25 @@
 table, tr, td, th {
     border: none;
 }
+.after-contact{
+  margin-top: 2.5em;
+  clear: left;
+}
+.contact div {
+  float: left;
+  margin: 5px;
+  display: table;
+}
+.contact div span img {
+  height: 1.3em;
+  vertical-align: middle;
+  display: table-cell;
+  margin-right: 5px;
+}
+.contact div span {
+    vertical-align: middle;
+    display: table-cell;
+}
 
 /* for quote carousel */
 $animation-timing: 170s;
@@ -160,3 +179,21 @@ body {
   }
 }
 /* end quote carousel */
+
+/* for LinkedIn */
+.libutton {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 7px;
+  text-align: center;
+  outline: none;
+  text-decoration: none !important;
+  color: #ffffff !important;
+  width: 200px;
+  height: 32px;
+  border-radius: 16px;
+  background-color: #0A66C2;
+  font-family: "SF Pro Text", Helvetica, sans-serif;
+}
+/* end LinkedIn */

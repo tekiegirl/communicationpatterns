@@ -18,7 +18,26 @@
  </tr>
  <tr>
   <td colspan="2">
-    <h2>Praise for Communication Patterns</h2>
+    <h2>Get in touch</h2>
+    <div class="contact">
+      <div>
+        <span><image src="assets/reshot-icon-linkedin.svg" alt="LinkedIn" /></span>
+        <span><a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jacquelineread" target="_blank">Follow me on LinkedIn</a></span>
+      </div>
+      <div>
+        <a href="https://fosstodon.org/@tekiegirl">
+          <span><image src="assets/Mastodon-Logo-wikimedia.svg" alt="Mastodon" /></span>
+          <span>Find me on Mastodon</span>
+        </a>
+      </div>
+      <div>
+        <a href="https://jacquiread.com/contact">
+          <span><image src="assets/reshot-icon-internet-col.svg" alt="JacquiRead.com" /></span>
+          <span>Contact me via JacquiRead.com</span>
+        </a>
+      </div>
+    </div>
+    <h2 class="after-contact">Praise for Communication Patterns</h2>
     <span>
       <div class='wrapper'>
         <div class='carousel'>
