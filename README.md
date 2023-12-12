@@ -21,18 +21,18 @@
     <h2>Get in touch</h2>
     <div class="contact">
       <div>
-        <span><image src="assets/reshot-icon-linkedin.svg" alt="LinkedIn" style="height: 1.3em;"/></span>
+        <span><image src="assets/reshot-icon-linkedin.svg" alt="LinkedIn" style="height: 20px;"/></span>
         <span><a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jacquelineread" target="_blank">Follow me on LinkedIn</a></span>
       </div>
       <div>
         <a href="https://fosstodon.org/@tekiegirl" target="_blank">
-          <span><image src="assets/Mastodon-Logo-wikimedia.svg" alt="Mastodon" style="height: 1.3em;" /></span>
+          <span><image src="assets/Mastodon-Logo-wikimedia.svg" alt="Mastodon" style="height: 20px;" /></span>
           <span>Find me on Mastodon</span>
         </a>
       </div>
       <div>
         <a href="https://jacquiread.com/contact" target="_blank">
-          <span><image src="assets/reshot-icon-internet-col.svg" alt="JacquiRead.com" style="height: 1.3em;" /></span>
+          <span><image src="assets/reshot-icon-internet-col.svg" alt="JacquiRead.com" style="height: 20px;" /></span>
           <span>Contact me via JacquiRead.com</span>
         </a>
       </div>
