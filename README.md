@@ -8,6 +8,7 @@
     <li><a href="https://www.amazon.com/Communication-Patterns-Guide-Developers-Architects/dp/1098140540/"> Amazon.com</a></li>
     <li><a href="https://www.amazon.co.uk/Communication-Patterns-Guide-Developers-Architects/dp/1098140540/">Amazon.co.uk</a></li>
     <li><a href="https://www.hive.co.uk/Product/Jacqueline-Read/Communication-Patterns--A-Guide-for-Developers-and-Architects/29041734">Hive.co.uk</a></li>
+    <li><a href="https://www.shroffpublishers.com/books/9789355426727/">Shroff (Indian Sub-Continent)</a></li>
    </ul>
    <h2>Figures & Freebies</h2>
    <p>View <a href="figures.html">figures</a> from the book and access <a href="freebies.html">freebie resources</a>.</p>
