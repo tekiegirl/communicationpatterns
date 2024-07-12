@@ -11,7 +11,7 @@
     <li><a href="https://www.shroffpublishers.com/books/9789355426727/">Shroff (Indian Sub-Continent)</a></li>
    </ul>
    <h2>Figures & Freebies</h2>
-   <p>View <a href="figures.html">figures</a> from the book and access <a href="freebies.html">freebie resources</a>.</p>
+   <p>View <a href="figures.md">figures</a> from the book and access <a href="freebies.md">freebie resources</a>.</p>
   </td>
   <td style="min-width: 75px; max-width: 300px">
    <image src="assets/compatcover.png" align="center" alt="Book cover: Communication Patterns" />
