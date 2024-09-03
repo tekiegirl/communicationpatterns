@@ -5,10 +5,16 @@
    <p>Communication Patterns is available from many places, including:</p>
    <ul>
     <li><a href="https://learning.oreilly.com/library/view/communication-patterns/9781098140533/">Read online on O'Reilly.com</a></li>
-    <li><a href="https://www.amazon.com/Communication-Patterns-Guide-Developers-Architects/dp/1098140540/"> Amazon.com</a></li>
-    <li><a href="https://www.amazon.co.uk/Communication-Patterns-Guide-Developers-Architects/dp/1098140540/">Amazon.co.uk</a></li>
-    <li><a href="https://www.hive.co.uk/Product/Jacqueline-Read/Communication-Patterns--A-Guide-for-Developers-and-Architects/29041734">Hive.co.uk</a></li>
+    <li>Amazon
+      <a href="https://www.amazon.com/Communication-Patterns-Guide-Developers-Architects/dp/1098140540/">🇺🇸 USA</a> 
+      <a href="https://www.amazon.co.uk/Communication-Patterns-Guide-Developers-Architects/dp/1098140540/">🇬🇧 UK</a> 
+      <a href="https://www.amazon.de/Communication-Patterns-Guide-Developers-Architects/dp/1098140540/">🇩🇪 DE</a>
+    </li>
+    <li><a href="https://www.hive.co.uk/Product/Jacqui-Read/Communication-Patterns--A-Guide-for-Developers-and-Architects/29594972">Hive.co.uk ePUB</a> (or <a href="https://www.hive.co.uk/Product/Jacqui-Read/Communication-Patterns/29594973">PDF</a> & <a href="https://www.hive.co.uk/Product/Jacqueline-Read/Communication-Patterns--A-Guide-for-Developers-and-Architects/29041734">paperback</a>) </li>
     <li><a href="https://www.shroffpublishers.com/books/9789355426727/">Shroff (Indian Sub-Continent)</a></li>
+    <li><a href="https://books.apple.com/us/book/communication-patterns/id6468962252">Apple Books</a></li>
+    <li><a href="https://play.google.com/store/books/details?pcampaignid=books_read_action&id=8mTbEAAAQBAJ">Google Play Books</a></li>
+    <li><a href="https://www.kobo.com/gb/en/ebook/communication-patterns">Kobo books</a></li>
    </ul>
    <h2>Figures & Freebies</h2>
    <p>View <a href="figures.html">figures</a> from the book and access <a href="freebies.html">freebie resources</a>.</p>
@@ -265,7 +271,7 @@
  <tr>
    <td colspan="2">
     <h2>Find Out More</h2>
-    <p>To get the latest information please visit <a href="https://jacquiread.com/">JacquiRead.com</a></p>
+    <p>To get the latest information please visit <a href="https://jacquiread.com/?mtm_campaign=tech&mtm_source=compat">JacquiRead.com</a></p>
    </td>
  </tr>
 </table>
