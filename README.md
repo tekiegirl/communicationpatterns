@@ -4,6 +4,10 @@
    <h2>Read the Book</h2>
    <p>Communication Patterns is available from many places, including:</p>
    <ul>
+    <li>Bookshop.org^
+      <a href="https://bookshop.org/a/108582/9781098140540">🇺🇸 USA</a> 
+      <a href="https://uk.bookshop.org/a/14924/9781098140540">🇬🇧 UK</a>
+    </li>
     <li><a href="https://learning.oreilly.com/library/view/communication-patterns/9781098140533/">Read online on O'Reilly.com</a></li>
     <li>Amazon
       <a href="https://www.amazon.com/Communication-Patterns-Guide-Developers-Architects/dp/1098140540/">🇺🇸 USA</a> 
@@ -16,8 +20,8 @@
     <li><a href="https://play.google.com/store/books/details?pcampaignid=books_read_action&id=8mTbEAAAQBAJ">Google Play Books</a></li>
     <li><a href="https://www.kobo.com/gb/en/ebook/communication-patterns">Kobo books</a></li>
    </ul>
-   <h2>Figures & Freebies</h2>
-   <p>View <a href="figures.html">figures</a> from the book and access <a href="freebies.html">freebie resources</a>.</p>
+   <h2>Figures & Bonus Material</h2>
+   <p>View <a href="figures.html">figures</a> from the book and access <a href="bonuses.html">bonus resources</a>.</p>
   </td>
   <td style="min-width: 75px; max-width: 300px">
    <image src="assets/compatcover.png" align="center" alt="Book cover: Communication Patterns" />
@@ -275,3 +279,4 @@
    </td>
  </tr>
 </table>
+<p>^ marks an affiliate link from which I may earn commission at no cost to you.</p>

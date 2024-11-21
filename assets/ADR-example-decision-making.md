@@ -1,4 +1,4 @@
-[> Home](README.md) | [> Freebies](freebies.md)
+[> Home](README.md) | [> Bonuses](bonuses.md)
 
 # ADR-044 Use an Event-Driven Distributed Architecture
 
@@ -78,4 +78,4 @@ We will use event-driven architecture due to its responsiveness and scalability,
 
 LICENSE: [CC BY 4.0 (Jacqui Read / jacquiread.com)](https://creativecommons.org/licenses/by/4.0/).
 
-[> Home](README.md) | [> Freebies](freebies.md)
+[> Home](README.md) | [> Bonuses](bonuses.md)

@@ -1,4 +1,4 @@
-# Freebies
+# Bonus Material
 
 ## ADR (Architecture Decision Records)
 Here are some examples and a template for creating ADRs. Licenses are specified on individual files.
